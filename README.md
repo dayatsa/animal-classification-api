@@ -1,5 +1,5 @@
 # animal-classification-api
-Animal Classification API
+Animal Classification API test
 
 Core Features:
 - Animal Classification Using CNN 
