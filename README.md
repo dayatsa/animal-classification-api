@@ -1,1 +1,1 @@
-"# animal-classification-api" 
+# animal-classification-api
