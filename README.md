@@ -32,9 +32,12 @@ Core Features:
 2.1.1. Predict image using Postman:
 
   Method POST:
+  
     http://localhost:3000/predict
     
-  Body:
+  Body
+  
     key: image (select file)
+    
     value: (select image)
  
